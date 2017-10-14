@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  text-shadow: "white";
+  background: "orange";
+  font-family: "Papyrus",fantasy;
+  background-image: url("https://www.organicfacts.net/wp-content/uploads/2013/08/orangejuice.jpg");
+  background-size: cover;
+}
+
+img{
+  width: 200px;
+  height: 300px;
+}
+
+.title{
+  text-align: center;
+  color: green;
+  height:100px;
+  width: 50px;
+}
+
+.fill{
+  text-align: center;
+}
